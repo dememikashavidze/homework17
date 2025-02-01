@@ -59,16 +59,19 @@ body {
 .a-1 {
   color: blue;
   font-size: 25px;
+  letter-spacing: 20px;
 }
 
 .a-2 {
   color: red;
   font-size: 25px;
+  letter-spacing: 20px;
 }
 
 .a-3 {
   color: black;
   font-size: 25px;
+  letter-spacing: 20px;
 }
 
 .d-3 {
